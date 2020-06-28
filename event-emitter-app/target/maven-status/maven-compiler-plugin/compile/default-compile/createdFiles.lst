@@ -1,0 +1,5 @@
+com\event\registry\EventRegistry.class
+com\event\model\Event.class
+com\event\controller\EventEmitController.class
+com\event\EventEmitterAppApplication.class
+com\event\emitter\EventEmitter.class
