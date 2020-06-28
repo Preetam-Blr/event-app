@@ -1,0 +1,6 @@
+com\event\registry\EventRegistry.class
+com\event\controller\MetricsController.class
+com\event\model\Event.class
+com\event\model\Metrics.class
+com\event\collector\EventCollector.class
+com\event\EventCollectorAppApplication.class
